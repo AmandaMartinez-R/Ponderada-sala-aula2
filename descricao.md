@@ -1,4 +1,4 @@
-### Protótipo Arduino com LED
+### Protótipo Arduino com Botão
 
 <p align="center">
   <img src="./assets/CircuitoBotao.jpg" width="400"><br>
@@ -9,6 +9,13 @@
 <p align="center">
   <img src="./assets/CircuitoBotao2.jpg" width="400"><br>
   <em>Imagem 2: Montagem do circuito com um botão simples e o Arduino.</em>
+</p>
+
+---
+### Gráfico de comparação entre a carga do Capacitor e a descarga do Resistor
+<p align="center">
+  <img src="./assets/GraficoDeDispersao.png" width="400"><br>
+  <em>Imagem 3: Gráfico que compara os valores para carga do capacitor e descarga do resistor.</em>
 </p>
 
 ---
